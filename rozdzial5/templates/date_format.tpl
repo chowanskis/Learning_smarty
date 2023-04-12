@@ -1,0 +1,1 @@
+Urodzi³em siê {$born|date_format:"%d %B, %Y"}. By³ to s³oneczny {$born|date_format:"%A"|lower}.

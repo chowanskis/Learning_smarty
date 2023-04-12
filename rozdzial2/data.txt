@@ -1,0 +1,27 @@
+Title=> Building websites with VB.NET and DotNetNuke 3.0 
+Image=> 1904811272.jpg
+Author=> Daniel N. Egan
+Description=> Praktyczny przewodnik tworzenia i utrzymywania w³asnej witryny WWW z wykorzystaniem DotNetNuke - darmowej ewolucji Microsoftowego portalu iBuySpy
+Year=> 2005
+Price=> 39.99
+
+Title=> SSL VPN : Understanding, evaluating and planning secure, web-based remote access
+Image=> 1904811078.jpg
+Author=> Joseph Steinberg, Tim Speed, Simon Jenner
+Description=> Kompletny przegl¹d technologii SSL VPN oraz strategii projektowych
+Year=> 2005
+Price=> 49.99
+
+Title=> Windows Server 2003 Active Directory Design and Implementations Creating, Migrating, and Merging Networks
+Image=> 1904811086.jpg
+Author=> John Savill
+Description=> Unikatowe podejœcie do wybierania i implementacji najlepszych projektów Active Directory w œrodowisku z wykorzystaniem scenariuszy.
+Year=> 2005
+Price=> 59.99
+
+Title=> Building websites with the ASP.NET Community Starter Kit
+Image=> 1904811000.jpg
+Author=> Cristian Dane, K. Scott Allen
+Description=> Kompletny przewodnik mo¿liwoœci, implementacji i rozszerzania rozbudowanych i dostêpnych za darmo aplikacji firmy Microsoft
+Year=> 2004
+Price=> 44.99

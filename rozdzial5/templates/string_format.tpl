@@ -1,0 +1,1 @@
+Ksi¹¿ka kosztuje {$somevalue|string_format:"%.2f"} PLN.
